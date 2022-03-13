@@ -6,4 +6,4 @@
 Desafio retirado do site Frontend Mentor // Challenge taken from the Frontend Mentor website:
 https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
-Link do site:
+Link do site: https://cristiano-monteiro.github.io/Project-QR-code-component/
