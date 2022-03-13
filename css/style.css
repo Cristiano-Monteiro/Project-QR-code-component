@@ -43,3 +43,22 @@ main p:nth-child(3){
     margin: 0% 13px;
     color: hsl(220, 15%, 55%);
 }
+
+@media screen and (max-width: 390px) {
+    main{
+        width: 100%;
+        max-width: 75%;
+    }
+
+    figure img{
+        width: 80vmin;
+    }
+
+    main p:nth-child(2){
+        font-size: 6vmin;
+    }
+
+    main p:last-child{
+        font-size: 4vmin;
+    }
+}
