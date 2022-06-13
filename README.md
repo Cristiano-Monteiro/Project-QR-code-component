@@ -1,6 +1,6 @@
 <div>
-    <img src="https://user-images.githubusercontent.com/91402144/158280358-4e96476f-5320-4b70-ae83-58876b5a04fd.png" width="500px">
-    <img src="https://user-images.githubusercontent.com/91402144/158280393-3d2f10f2-5c4d-47d9-beef-023fca30e004.png" width="157.5px">
+    <img src="https://user-images.githubusercontent.com/91402144/158280358-4e96476f-5320-4b70-ae83-58876b5a04fd.png" width="52%">
+    <img src="https://user-images.githubusercontent.com/91402144/158280393-3d2f10f2-5c4d-47d9-beef-023fca30e004.png" width="16.35%">
 </div>
 
 # Frontend Mentor - QR code component solution
